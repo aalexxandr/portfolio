@@ -5,4 +5,6 @@
 
 > 🔎 http://chmksteel.ru
 
+> 🔎 http://child-lider.ru
+
 ### Все сайты созданы на Bitrix
