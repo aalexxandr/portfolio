@@ -7,4 +7,8 @@
 
 > 🔎 http://child-lider.ru
 
+> 🔎 https://xn--80aakr0agk.xn--p1ai/
+
+> 🔎 http://uralmin.ru/
+
 ### Все сайты созданы на Bitrix
