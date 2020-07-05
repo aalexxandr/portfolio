@@ -1,4 +1,6 @@
 # Список сайтов в создании которых я принимал участие:
+> 🔎 http://chel.universepro.ru/
+
 > 🔎 http://staylus.ru 
 
 > 🔎 http://angar74.ru
@@ -21,6 +23,13 @@
 
 > 🔎 http://dkli.ru/
 
-> 🔎 http://dkli.ru/
+> 🔎 https://kh174.ru/
+
+> 🔎 https://womanbutik.ru/
+
+> 🔎 http://kraski-raduga.shop/
+
+> 🔎 https://zof1815.ru/
+
 
 ### Все сайты созданы на Bitrix
