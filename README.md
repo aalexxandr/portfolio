@@ -78,8 +78,9 @@
 > ### JavaScript 
 > 
 > Практика таких тем, как: ассинхронное программирование, работа с rest API, замыкания, рекурсия, работа с DOM и тд.
-
+>
 > ### React: 
+>
+> Знание и практика таких библиотек как: axios, firebase, formik, yup, react-firebase-hooks, react-redux, react-router-dom, redux-thunk, reselect
 
-Знание и практика таких библиотек как: axios, firebase, formik, yup, react-firebase-hooks, react-redux, react-router-dom, redux-thunk, reselect
 ---
