@@ -74,13 +74,15 @@
 > Имею опыт работы с JQuery
 > 
 > Изучаю и практикую TypeScript
->
+> 
+> Небольшой опыт разработки на Node.js
+> 
 > ### React: 
 >
 > Знание и практика таких библиотек как: axios, firebase, formik, yup, react-firebase-hooks, react-redux, react-router-dom, redux-thunk, reselect
-
+> 
 > Использование Redux на практике
-
+> 
 > ### git
 > 
 > Все основные команды, ветвление, слияние, решение Merge конфликтов и тд.
@@ -92,4 +94,6 @@
 > ### Английский язык
 > 
 > На уровне чтения документации и просмотра видео
+>
+> #### php, SQL, Figma, Photoshop, Illustrator
 ---
