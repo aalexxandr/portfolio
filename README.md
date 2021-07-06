@@ -81,6 +81,8 @@
 >
 > Знание и практика таких библиотек как: axios, firebase, formik, yup, react-firebase-hooks, react-redux, react-router-dom, redux-thunk, reselect
 > 
+> Понимание и использование хуков
+> 
 > Использование Redux на практике
 > 
 > ### git
