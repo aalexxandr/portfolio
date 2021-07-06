@@ -34,8 +34,6 @@
 
 > 🔎 https://zof1815.ru/
 
-> 🔎 http://kapkaev.intecwork1.ru/
-
 > 🔎 http://cv94712.tmweb.ru/
 
 > 🔎 https://gepanet.ru/
