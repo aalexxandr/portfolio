@@ -10,12 +10,9 @@
 
 > 🔎 http://angar74.ru
 
-
 > 🔎 https://xn--80aakr0agk.xn--p1ai/
 
 > 🔎 http://uralmin.ru/
-
-> 🔎 http://notkivkusa.ru/
 
 > 🔎 https://detkichel.ru/
 
