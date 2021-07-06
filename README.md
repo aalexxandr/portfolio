@@ -94,6 +94,8 @@
 > ### Английский язык
 > 
 > На уровне чтения документации и просмотра видео
->
-> #### php, SQL, Figma, Photoshop, Illustrator
+> 
+> ## А так же имел опыт работы с
+> 
+> php, SQL, Figma, Photoshop, Illustrator
 ---
