@@ -32,8 +32,6 @@
 
 > 🔎 http://cv94712.tmweb.ru/
 
-> 🔎 https://gepanet.ru/
-
 > 🔎 http://ipk-service.ru/
 
 > 🔎 https://klinika-milano.ru/
