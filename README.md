@@ -10,7 +10,6 @@
 
 > 🔎 http://angar74.ru
 
-> 🔎 http://chmksteel.ru
 
 > 🔎 https://xn--80aakr0agk.xn--p1ai/
 
